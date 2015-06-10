@@ -6,4 +6,4 @@ GitHubのテスト
 ## メンバー5555
 
 
-*testmember
+*testmember_aaa
