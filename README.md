@@ -3,6 +3,7 @@ Test
 
 GitHubのテスト
 
-## メンバー
+## メンバー２
+
 
 *testmember
